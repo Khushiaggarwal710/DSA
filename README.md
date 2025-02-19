@@ -410,4 +410,7 @@ int main()
 }
 
 ```
+**Time Complexity: O(N), where N = size of the array.
+Reason: We are using a single loop running N times.**
 
+**Space Complexity: O(1) as we are not using any extra space**
